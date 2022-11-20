@@ -1,1 +1,1 @@
-# LTKHDL_LT
+# Project for Data Science
